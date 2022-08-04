@@ -1,0 +1,32 @@
+title: Nikolai Slavov
+description: Personal reflections from Prof. Nikolai Slavov. Musings about practicing science and systems biology
+
+url: https://nikolai.slavovlab.net
+paginate_path: "page:num/"
+permalink: :title/
+
+# Header Option
+# header: large
+
+markdown: kramdown
+highlighter: rouge
+plugins: [jekyll-paginate]
+paginate: 6
+
+navigation:
+  - title: Blog
+    url: /index.html
+#  - title: Research
+#    url: /research
+
+
+social:
+  github: nslavov
+  twitter: slavov_n
+  facebook: nslavov
+  linkedin: nslavov
+
+google_analytics: "UA-4005755-3"
+
+
+theme: jekyll-theme-cayman
