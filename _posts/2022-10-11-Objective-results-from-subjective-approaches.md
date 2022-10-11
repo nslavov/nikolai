@@ -3,7 +3,7 @@ layout: post
 author: nslavov
 title: Objective results from subjective approaches
 date: 2022-10-11
-description: The paths leading to objective scientific results may reflect subjective subjective perspectives.
+description: The paths leading to objective scientific results may reflect subjective perspectives.
 ---
 
 <!-- Scientific results must be objective, but the approaches leading to objective results can be subjective. -->
