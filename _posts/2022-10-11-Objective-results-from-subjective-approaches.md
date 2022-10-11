@@ -25,7 +25,7 @@ This attitude naturally led to my group using older equipment for demanding task
 That is not to say that I do not appreciate the value and the advantages of the cutting edge instruments. I do, and our [data](https://www.nature.com/articles/s41587-022-01389-w/figures/6) demonstrate the superior performance enabled by cutting edge equipment. It is just that I never felt intimidated from being under resourced, and I never saw access to resources as being my competitive strategy.
 
 
-Now that my group is fortunate to receive and use multiple state of the art LC-MS/MS systems, I feel the same determination to make the most out of them as we did with the old systems. The question remains what are the [innovations](https://pubs.acs.org/doi/full/10.1021/acs.jproteome.1c00639) that we can contribute. What inspires my approach to science connects back to my early [experiences and values](https://nikolai.slavovlab.net/Idealism/). These subjective elements influence our paths towards objective scientific results.               
+Now that my group is fortunate to receive and use state of the art LC-MS/MS systems, I feel the same determination to make the most out of them as we did with the old systems. The question remains what are the [innovations](https://pubs.acs.org/doi/full/10.1021/acs.jproteome.1c00639) that we can contribute. What inspires my approach to science connects back to my early [experiences and values](https://nikolai.slavovlab.net/Idealism/). These subjective elements influence our paths towards objective scientific results.               
 
 
 
