@@ -9,7 +9,7 @@ description: The paths leading to objective scientific results often reflect sub
 <!-- Scientific results must be objective, but the approaches leading to objective results can be subjective. -->
 
 
-<p class="intro"><span class="dropcap">S</span>cientific results must be objective. Yet, the approaches leading to objective results can reflect subjective points of view. The problems we [choose](https://blog.slavovlab.net/2013/09/26/the-best-projects-are-least-obvious/) and the strategies we use often reflect our personal, idiosyncratic perspectives. The exact combination of experiments, logic and analysis leading to a scientific discovery often depends on the experiences and inclinations of the researchers. That is a key reason why scientific research benefits from diverse perspectives.
+<p class="intro"><span class="dropcap">S</span>cientific results must be objective. Yet, the approaches leading to objective results can reflect subjective points of view. The problems we <a href="https://blog.slavovlab.net/2013/09/26/the-best-projects-are-least-obvious/" Title="The Best Projects Are Least Obvious">choose</a> and the strategies we use often reflect our personal, idiosyncratic perspectives. The exact combination of experiments, logic and analysis leading to a scientific discovery often depends on the experiences and inclinations of the researchers. That is a key reason why scientific research benefits from diverse perspectives.
 </p>
 
 
