@@ -10,7 +10,7 @@ description: High-input, High-throughput, high-output science
 
 
 
-<p class="intro"><span class="dropcap">R</span>esearch is increasingly driven by large-scale data. Yet, generating data at *high-throughput* sometimes carries negative connotations, as reflected in this [quote](https://www.nature.com/articles/nrm2320) from Sydney Brenner:</p>  
+
 
 <blockquote>Low input, high throughput, no output science</blockquote>
 
