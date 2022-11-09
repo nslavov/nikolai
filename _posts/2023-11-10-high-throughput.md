@@ -1,7 +1,7 @@
 ---
 layout: post
 author: nslavov
-title: High-throughput omics: The good and the bad
+title: High-throughput omics
 date:   2022-11-10
 description: High input, High throughput, high output science
 nav_exclude: false
