@@ -9,10 +9,10 @@ description: High-input, High-throughput, high-output science
 
 
 
-<p class="intro"><span class="dropcap">R</span>esearch is increasingly driven by large-scale data. Yet, generating data at *high-throughput* sometimes carries negative connotations, as reflected in this [quote](https://www.nature.com/articles/nrm2320) from Sydney Brenner:</p>  
+<p class="intro"><span class="dropcap">R</span>esearch is increasingly driven by large-scale data. Yet, generating data at *high-throughput* sometimes carries negative connotations, as reflected in this <a href="https://www.nature.com/articles/nrm2320" target="_blanck">quote</a> from Sydney Brenner:</p>  
 
 
-<!-- <blockquote>Low input, high throughput, no output science</blockquote> -->
+<blockquote>Low input, high throughput, no output science</blockquote>
 
 ## The bad
 Indeed, high-throughput data collection have often been associated with poor experimental design and data quality, and this association has stuck. Sometimes, the problem is that treatment groups coincide with analysis batches, which makes it impossible to distinguish between biological effects and technological artifacts (batch effects). Another common problem is that high-throughput data often focussed on what can be measurements at high-throughput even if when its is not the most direct and useful measurement for answering scientific questions. A further problem is the fact that sometimes the number of assays makes it difficult to evaluate the quality of individual assays. A related problem is that optimizing for high-throughput may directly undermine important aspects of the data. For example, increasing the number of single cells analyzed by RNA-seq may decrease the copies of transcripts samples per single cells.
@@ -31,7 +31,7 @@ While the problems described above happen, they do not need to. They are not fun
 How to avoid the bad and take advantage of the good? I think the key is suggested by the Brenner quote. We should modify 'Low input' to 'High input', which hopefully modifies the rest of the quote to:
 
 
-<!--  <blockquote>High input, High throughput, high output science</blockquote> -->
+<blockquote>High input, High throughput, high output science</blockquote>
 
 What I mean here by high input is *high intellectual input*. I mean starting with a solid experimental design and measurements that are worth doing, not only easy to do and high throughput.
 
