@@ -15,7 +15,7 @@ description: High-input, High-throughput, high-output science
 *"Low input, high throughput, no output science"*
 
 ## The bad
-Indeed, high-throughput data collection has often been associated with poor experimental design and data quality. Sometimes, the problem is that treatment groups coincide with analysis batches, which makes it [impossible](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4516019/) to distinguish between biological effects and technological artifacts (batch effects). Another common problem is that high-throughput data often focus on what *can* be measured at high-throughput rather that what *should* be measured to answer scientific questions. Thus, high data volumes are accumulated even though the data are not the most direct and useful measurement for the investigated questions. A further problem is the fact that sometimes large numbers of assays make it difficult to evaluate the quality of individual assays. A related problem is that optimizing for high-throughput may directly undermine other important aspects of the data. For example, increasing the number of single cells analyzed by RNA-seq may decrease the copies of transcripts sampled per single cells.
+Indeed, high-throughput data collection has sometimes been associated with poor experimental design and data quality. Sometimes, the problem is that treatment groups coincide with analysis batches, which makes it [impossible](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4516019/) to distinguish between biological effects and technological artifacts (batch effects). Another common problem is that high-throughput data often focus on what *can* be easily measured at high-throughput rather that what *should* be measured to answer scientific questions. Thus, high data volumes are accumulated even though the data are not the most direct and useful measurement for the investigated questions. A further problem is the fact that sometimes large numbers of assays make it difficult to evaluate the quality of individual assays. A related problem is that optimizing for high-throughput may directly undermine other important aspects of the data. For example, increasing the number of single cells analyzed by RNA-seq may decrease the copies of transcripts sampled per single cell.
 
 
 
@@ -28,12 +28,12 @@ While the problems described above happen, they are not inevitable. They are not
 
 
 ## What to do?
-How to avoid the bad and take advantage of the good? I think the key is suggested by the Brenner quote. We should modify 'Low input' to 'High input', which hopefully modifies the rest of the quote to:
+How to avoid the bad and take advantage of the good? I think a key ingredient is suggested by the Brenner quote. We should modify 'Low input' to 'High input', which hopefully modifies the rest of the quote as well to:
 
 
-*"High input, High throughput, high output science"*
+*"High input, high throughput, high output science"*
 
-What I mean here by high input is *high intellectual input*. I mean starting with a solid experimental design and measurements that are worth doing, not only easy to do and high throughput.
+What I mean here by high input is *high intellectual input*. I mean starting with a solid experimental design, compelling questions, and measurements that are worth doing, not only easy to do at high throughput.
 
 I think high-throughput has much to [offer](https://doi.org/10.1016/j.mcpro.2021.100179) if imbedded in well-motivated research focused on thoughtful scientific questions, not merely on maximizing data volumes.   
 
