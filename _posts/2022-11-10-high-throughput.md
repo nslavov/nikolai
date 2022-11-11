@@ -3,7 +3,7 @@ layout: post
 author: nslavov
 title: High-throughput omics
 date:   2022-11-11
-description: High-input, High-throughput, high-output science
+description: High-input, high-throughput, high-output science
 ---
 
 
