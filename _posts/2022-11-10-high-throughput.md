@@ -35,17 +35,17 @@ How to avoid the bad and take advantage of the good? I think a key ingredient is
 
 What I mean here by high input is *high intellectual input*. I mean starting with a solid experimental design, compelling questions, and measurements that are worth doing, not only easy to do at high throughput.
 
-I think high-throughput has much to [offer](https://doi.org/10.1016/j.mcpro.2021.100179) if imbedded in well-motivated research focused on thoughtful scientific questions, not merely on maximizing data volumes.   
+I think high-throughput has much to offer if imbedded in well-motivated research focused on thoughtful scientific questions, not merely on maximizing data volumes.   
 
 
 <br>
 
+<!-- (https://doi.org/10.1016/j.mcpro.2021.100179) -->
 
 ------
-<!--
+
 ## Comments
 Please leave comments as responses to the tweet below:
 
 
-<blockquote class="twitter-tweet tw-align-center" ><p lang="en" dir="ltr" >Forthcoming changes in my life motivated me to reflect on my views and to share some thoughts.<br><br>The first installment is in this post, which carries personal reverberations.<a href="https://t.co/FkW373Tl3j">https://t.co/FkW373Tl3j</a></p>&mdash; Prof. Nikolai Slavov (@slavov_n) <a href="https://twitter.com/slavov_n/status/1555146276609540096?ref_src=twsrc%5Etfw">August 4, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
--->
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Indirect &amp; easy omics &lt;---&gt; Researchers<br>Halloween Candies &lt;---&gt; Children<br><br>Some thoughts on preventing obesity in scientific research<a href="https://t.co/Vz8WU12moQ">https://t.co/Vz8WU12moQ</a></p>&mdash; Prof. Nikolai Slavov (@slavov_n) <a href="https://twitter.com/slavov_n/status/1591770153746067458?ref_src=twsrc%5Etfw">November 13, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
