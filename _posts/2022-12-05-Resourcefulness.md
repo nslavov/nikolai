@@ -9,7 +9,7 @@ description: What could I have done differently within my constraints? What are 
 
 
 
-<p class="intro"><span class="dropcap">A</span>lmost everything we do needs resources of some kind. Having more resources generally makes it easier to accomplish our goals. Some resources not only facilitate our goals but are essential for accomplishing them. Thus, resources can set limits on what we can and cannot hope to achieve.</p>  
+<p class="intro"><span class="dropcap">A</span>lmost everything we do needs resources of some kind. Having more resources generally makes it easier to accomplish our goals. Some resources not only facilitate our goals but are essential for accomplishing them. Thus, resources can set limits on what we can and cannot hope to achieve.</p>   
 
 
 The danger is that those limits may loom larger in our perceptions than they actually are. Some barriers set by limited resources may be insurmountable. Other barriers increase the activation energy but leave options for creative strategies to overcome them. That is the space in which resourcefulness can make a difference. That is the space in which Davids have a fighting chance against Goliaths. It is a space that enlarges when we focus on our sphere of influence and ask the question: What are the feasible strategies given our limited resources?
