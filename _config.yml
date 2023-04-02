@@ -16,8 +16,8 @@ paginate: 6
 navigation:
   - title: Blog
     url: /index.html
-#  - title: Research
-#    url: /research
+  - title: PTI
+    url: https://www.parallelsq.org
 
 
 social:
