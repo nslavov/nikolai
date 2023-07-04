@@ -14,8 +14,8 @@ plugins: [jekyll-paginate]
 paginate: 6
 
 navigation:
-  - title: Biol
-    url: /bio.html
+  - title: Bio
+    url: /bio
   - title: Blog
     url: /index.html
   - title: PTI
