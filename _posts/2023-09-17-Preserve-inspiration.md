@@ -14,7 +14,7 @@ nav_exclude: false
 <p class="intro"><span class="dropcap">C</span>hildren ask big questions. These questions are not always well posed, but they are inspired. They are questions about the big picture, about life, about the wonderful dynamics that animate life.
 </p>
 
-As we grow and learn more about science and the scientific method, we learn about the established model systems for studying various questions. We learn about what is pragmatically possible to tackle and to scientifically resolve as supposed to merely speculate about. This maturity has important benefits. It is a cornerstone of productive research and progress.
+As we grow and learn more about science and the scientific method, we learn about the established model systems for studying various questions. We learn about what is pragmatically possible to tackle and to scientifically resolve as opposed to merely speculate about. This maturity has important benefits. It is a cornerstone of productive research and progress.
 
 However, we should never forget the big questions that inspired us to pursue science. We should nurture and cherish them, not only because of their inspiration but also because they can open new frontiers of knowledge. What was merely a curiosity marred in speculation may become scientifically approachable; indeed, new technologies enable ever more direct and reliable measurements that have the potential to enlarge the arena of scientific research. Technologies open the door, and your inspiration can welcome new big questions onto the arena.
 
