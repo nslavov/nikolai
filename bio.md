@@ -25,10 +25,11 @@ Prof. Slavov organizes the annual <a href="https://single-cell.net/">single-cell
 
 <br>
 
-### Podcasts
+### Interviews & Podcasts
 
+<div style="text-align: center;">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/HOozkrLVHDo?si=Xw0H1DzemAa7kOsY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
+</div>
 
 <br>
 <br>
