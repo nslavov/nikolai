@@ -22,3 +22,15 @@ Prof. Slavov organizes the annual <a href="https://single-cell.net/">single-cell
  * [Faculty Profile](https://coe.northeastern.edu/people/slavov-nikolai/)
  * [ORCID](https://orcid.org/0000-0003-2035-1820)
  * [Google Scholar](https://scholar.google.com/citations?user=GJTMsxIAAAAJ&hl=en)
+
+<br>
+
+### Podcasts
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HOozkrLVHDo?si=Xw0H1DzemAa7kOsY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+
+<br>
+<br>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9IQO1jybiy4?si=l9du9AWyiixuTo52" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
