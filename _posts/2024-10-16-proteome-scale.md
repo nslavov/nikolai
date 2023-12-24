@@ -2,7 +2,7 @@
 layout: post
 author: nslavov
 title: The cell by the numbers
-date:   2023-11-03
+date:  2025-11-03
 description:
 nav_exclude: true
 ---
