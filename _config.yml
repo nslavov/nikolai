@@ -1,5 +1,5 @@
 title: Nikolai Slavov
-description: Personal reflections from Prof. Nikolai Slavov. Ideas and discussions about practicing science and systems biology
+description: "Nikolai Slavov, Professor at Northeastern University and Director of Parallel Squared Technology Institute. Ideas and discussions about the scientific process, systems biology, building and managining organizations."
 
 url: https://nikolai.slavovlab.net
 paginate_path: "page:num/"
@@ -17,7 +17,7 @@ navigation:
   - title: Bio
     url: /bio
   - title: Blog
-    url: /index.html
+    url: /
   - title: PTI
     url: https://www.parallelsq.org
 

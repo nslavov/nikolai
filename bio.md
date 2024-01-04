@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Biography
-description: "Biography of Nikolai Slavov, a curious explorer of nature, Founding Director of Parallel Squared Technology Institute  and a Professor at Northeastern University"
+description: "Biography of Nikolai Slavov, a curious explorer of nature Founding Director of Parallel Squared Technology Institute and a Professor at Northeastern University"
 ---
 
 # Biography
