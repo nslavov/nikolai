@@ -1,10 +1,10 @@
 ---
 layout: post
 author: nslavov
-title: Research, mentoring, and teaching
+title: "Research, mentoring, and teaching"
 date:   2024-03-10
 description: Thus, choosing between great research or great mentorship is a false choice: One can succeed at both or is likely to succeed at neither.
-nav_exclude: true
+nav_exclude: false
 ---
 
 
