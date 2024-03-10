@@ -10,7 +10,7 @@ description: "Thus, choosing between great research or great mentorship is a fal
 
 
 
-<p class="intro"><span class="dropcap">R</span>esearch, mentoring, and education are often described and evaluated as distinct activities. Yet, they are strongly interdependent and highly synergistic. Strong research benefits from good mentoring, and good mentoring benefits from strong research. Teaching both creates and benefits from the intellectual environment of creative research.</p>
+<p class="intro"><span class="dropcap">R</span>esearch, mentoring, and teaching are often described and evaluated as distinct activities. Yet, they are strongly interdependent and highly synergistic. Strong research benefits from good mentoring, and good mentoring benefits from strong research. Teaching both creates and benefits from the intellectual environment of creative research.</p>
 
 Research, mentoring and teaching compete for our 24 hours / day, and this competition for time may imply that excelling on one comes at the expense of the other two. This need not be the case. While the time competition creates trade-offs in some cases, I think the synergy exceeds the trade-offs.
 
