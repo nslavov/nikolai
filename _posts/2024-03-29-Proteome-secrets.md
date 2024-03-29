@@ -4,6 +4,7 @@ author: nslavov
 title: Proteome secrets
 date:   2024-03-29
 description: "We are yet to investigate proteomes with unbiased discovery-driven methods"
+image: alig_mul_prot.png
 ---
 
 
