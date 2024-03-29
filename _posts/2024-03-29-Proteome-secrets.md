@@ -15,7 +15,7 @@ The most common methods for studying proteomes are focused on hypothesis testing
 
 <p class="intro"><i>These are sobering limitations.</i></p>
 
-The limitations have hampered hypothesis-free discovery and exploration of proteomes. Yet, these limitations are not based on physical laws. They reflect technological challenges, societal priorities reflected in funding allocation, and lack of scientific creativity to transcend the challenges. These are major obstacles and yet they are all surmountable. Even better, the [remarkable progress](https://blog.slavovlab.net/2023/11/29/proteomics-is-rocketing/) underway is encouraging evidence that we may soon break the shackles of hypothesis testing. We may soon enter an age of discovery when proteomes are routinely explored at scale and their secrets revealed.      
+The limitations have hampered hypothesis-free discovery and exploration of proteomes. Yet, these limitations are not based on physical laws. They reflect technological challenges, societal priorities reflected in funding allocation, and lack of scientific creativity to transcend the challenges. These are major obstacles, and yet they are all surmountable. Even better, the [remarkable progress](https://blog.slavovlab.net/2023/11/29/proteomics-is-rocketing/) underway is encouraging evidence that we may soon break the shackles of hypothesis testing. We may soon enter an age of discovery when proteomes are routinely explored at scale and their secrets revealed.      
 
 
 <br>
