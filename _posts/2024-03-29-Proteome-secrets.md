@@ -4,9 +4,9 @@ author: nslavov
 title: Proteome secrets
 date:   2024-03-29
 description: "We are yet to investigate proteomes with unbiased discovery-driven methods"
-image: alig_mul_prot.png
 ---
 
+<-- image: alig_mul_prot.png -->
 
 
 <p class="intro"><span class="dropcap">W</span>e have studied proteins and proteomes for decades using diverse methods. Yet, our studies and methods have been rather limited to hypothesis testing. As a result, the proteome remains a frontier that awaits to be investigated with unbiased discovery-driven methods that can reveal its secrets.</p>
