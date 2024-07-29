@@ -37,6 +37,9 @@ h1 {
   font-size: 2em;
   margin: 0.67em 0; }
 
+large {
+      font-size: 150%; }
+
 /* Grouping content
    ========================================================================== */
 /**
@@ -143,8 +146,9 @@ mark {
 /**
  * Add the correct font size in all browsers.
  */
-small {
+ small {
   font-size: 80%; }
+
 
 /**
  * Prevent `sub` and `sup` elements from affecting the line height in
