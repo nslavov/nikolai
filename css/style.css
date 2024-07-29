@@ -396,7 +396,7 @@ body {
     line-height: 1.7; }
 
   body .large {
-          font-size: 150%; }    
+          font-size: 1.5em; }    
 
 @media (min-width: 43.75em) {
   body {
