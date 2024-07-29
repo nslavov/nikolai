@@ -11,8 +11,9 @@ description: High-input, high-throughput, high-output science
 
 <p class="intro"><span class="dropcap">R</span>esearch is increasingly driven by large-scale data. Yet, generating data at <i>high-throughput</i> sometimes carries negative connotations, as reflected in this <a href="https://www.nature.com/articles/nrm2320" target="_blanck">quote</a> from Sydney Brenner:</p>  
 
-{: .fs-9 .fw-300}
+<div style="font-size: 1.5em;">
 *"Low input, high throughput, no output science"*
+</div>
 
 ## The bad
 Indeed, high-throughput data collection has sometimes been associated with poor experimental design and data quality. Sometimes, the problem is that treatment groups coincide with analysis batches, which makes it [impossible](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4516019/) to distinguish between biological effects and technological artifacts (batch effects). Another common problem is that high-throughput data often focus on what *can* be easily measured at high-throughput rather that what *should* be measured to answer scientific questions. Thus, high data volumes are accumulated even though the data are not the most direct and useful measurement for the investigated questions. A further problem is the fact that sometimes large numbers of assays make it difficult to evaluate the quality of individual assays. A related problem is that optimizing for high-throughput may directly undermine other important aspects of the data. For example, increasing the number of single cells analyzed by RNA-seq may decrease the copies of transcripts sampled per single cell.
