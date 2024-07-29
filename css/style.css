@@ -395,8 +395,9 @@ body {
     font-size: 1.25em;
     line-height: 1.7; }
 
-  body .large {
-    font-size: 1.5em; }
+  body .lf150 {
+    font-size: 1.50em;
+    line-height: 1.8; }
 
 @media (min-width: 43.75em) {
   body {
