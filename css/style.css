@@ -37,8 +37,6 @@ h1 {
   font-size: 2em;
   margin: 0.67em 0; }
 
-.large {
-      font-size: 150%; }
 
 /* Grouping content
    ========================================================================== */
@@ -396,6 +394,9 @@ body {
   body .intro {
     font-size: 1.25em;
     line-height: 1.7; }
+
+  body .large {
+          font-size: 150%; }    
 
 @media (min-width: 43.75em) {
   body {
