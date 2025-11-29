@@ -791,6 +791,11 @@ dd {
 .post ol ol {
   margin: 0; }
 
+  
+  ul li, ol li {
+    margin-bottom: 10px; /* Adjust the value as needed */
+  }
+
 /***************
 PAGE STYLES
 ***************/
