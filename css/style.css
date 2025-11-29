@@ -789,12 +789,8 @@ dd {
 .post ul ol,
 .post ol ul,
 .post ol ol {
-  margin: 0; }
+  margin: 10px; }
 
-  
-  ul li, ol li {
-    margin-bottom: 10px; /* Adjust the value as needed */
-  }
 
 /***************
 PAGE STYLES
