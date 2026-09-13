@@ -10,7 +10,7 @@ nav_exclude: false
 
 
 
-<p class="intro"><span class="dropcap">M</span>uch of what surrounds us is imperfect. Scientific institutions, papers, public discourse, and our own work all fall short of what they could be. It is easy to point this out. It is harder — and more useful — to demonstrate something better.
+<p class="intro"><span class="dropcap">M</span>uch of what surrounds us is imperfect or even deeply flawed. Instead of resignation and cynicism, we can choose to build something better by combining creativity to imagine what is possible, resourcefulness to make it feasible, openness to learn from those who disagree, and inspirational mentorship to propel an autocatalytic chain reaction.
 </p>
 
 ###  Intellectual openness
