@@ -10,10 +10,10 @@ nav_exclude: false
 
 
 
-<p class="intro"><span class="dropcap">M</span>uch of what surrounds us is imperfect or even deeply flawed. Instead of resignation and cynicism, we can choose to build something better by combining creativity to imagine what is possible, resourcefulness to make it feasible, openness to learn from those who disagree, and inspirational mentorship to propel an autocatalytic chain reaction.
+<p class="intro"><span class="dropcap">M</span>uch of what surrounds us is imperfect or even deeply flawed. Instead of resignation and cynicism, we can choose to build something better by combining creativity to imagine what is possible, resourcefulness to make it feasible, openness to learn from those who disagree, and inspirational [mentorship](https://nikolai.slavovlab.net/Research,-mentoring,-and-teaching/) to propel an autocatalytic chain reaction.
 </p>
 
-###  Intellectual openness
+### Openness
 Setting a positive example often requires the courage to pursue ideas that challenge prevailing assumptions and to persist in the face of opposition. Persisting not by ignoring the arguments of those who disagree but by taking them seriously and understanding deeply what they get right and what they get wrong. It means listening carefully enough to understand why someone holds a different view, examining the assumptions behind the disagreement, and remaining willing to change our minds when evidence demands it. Perseverance while [ignoring criticism](https://x.com/slavov_n/status/2090822247095173265?s=20) is no virtue:  It’s merely ignorant stubbornness.
 
 This intellectual openness should guide how we pursue ambitious science. It is easy to propose a far-reaching idea that lies well beyond current understanding. It is harder to find a genuinely new approach that makes such ambitious ideas testable with the tools, time, and resources actually available. This requires creativity and [resourcefulness](https://nikolai.slavovlab.net/Resourcefulness/). An ambitious idea becomes scientifically powerful not when it is difficult to imagine or impossible to refute, but when we can devise a way to confront it with reality and make it [feasible](https://www.nature.com/articles/d41586-026-02805-w).
